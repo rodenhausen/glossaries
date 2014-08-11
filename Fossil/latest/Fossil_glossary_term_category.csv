@@ -1,0 +1,609 @@
+#Version: 0.1
+#Glossary type: Fossil
+#Source: treatise_gloss (merged from: treatise_o, treati)
+#Finalized by: Dr. Hong Cui
+#Date: 9/12/2013
+#Reviewers: treatise  ,Dr. Hong Cui,Mohan Krishna Gowda,Fengqiong Huang,Sonali Ranade
+#Source producer: OTO System
+
+term,category,hasSyn,sourceDataset,termID
+sized,size,0,treatise_gloss,38f911ea-1bb8-11e3-a402-0026b9326338
+small,size,0,treatise_gloss,38f9146a-1bb8-11e3-a402-0026b9326338
+long,length,0,treatise_gloss,38f9155a-1bb8-11e3-a402-0026b9326338
+bent,shape,0,treatise_gloss,38f91636-1bb8-11e3-a402-0026b9326338
+curved,shape,0,treatise_gloss,38f91712-1bb8-11e3-a402-0026b9326338
+concave,shape,0,treatise_gloss,38f917ee-1bb8-11e3-a402-0026b9326338
+sigmoidal,shape,0,treatise_gloss,38f918c0-1bb8-11e3-a402-0026b9326338
+shaped,shape,0,treatise_gloss,38f91988-1bb8-11e3-a402-0026b9326338
+bending,shape,0,treatise_gloss,38f91a5a-1bb8-11e3-a402-0026b9326338
+medium,size,0,treatise_gloss,38f91b22-1bb8-11e3-a402-0026b9326338
+marginal,position,0,treatise_gloss,38f91bea-1bb8-11e3-a402-0026b9326338
+semicircular,shape,0,treatise_gloss,38f91cb2-1bb8-11e3-a402-0026b9326338
+short,length,0,treatise_gloss,38f91d84-1bb8-11e3-a402-0026b9326338
+one,count,0,treatise_gloss,38f91ec4-1bb8-11e3-a402-0026b9326338
+anterior,position,0,treatise_gloss,38f91f8c-1bb8-11e3-a402-0026b9326338
+anterolateral,position,0,treatise_gloss,38f9205e-1bb8-11e3-a402-0026b9326338
+subtriangular,shape,0,treatise_gloss,38f92126-1bb8-11e3-a402-0026b9326338
+subcircular,shape,0,treatise_gloss,38f921f8-1bb8-11e3-a402-0026b9326338
+tapering,shape,0,treatise_gloss,38f922ca-1bb8-11e3-a402-0026b9326338
+expanding,size,0,treatise_gloss,38f92392-1bb8-11e3-a402-0026b9326338
+conical,shape,0,treatise_gloss,38f9245a-1bb8-11e3-a402-0026b9326338
+bispinose,shape,0,treatise_gloss,38f92522-1bb8-11e3-a402-0026b9326338
+dorsal,position,0,treatise_gloss,38f925ea-1bb8-11e3-a402-0026b9326338
+posterior,position,0,treatise_gloss,38f926b2-1bb8-11e3-a402-0026b9326338
+rear,position,0,treatise_gloss,38f9277a-1bb8-11e3-a402-0026b9326338
+occipital,position,0,treatise_gloss,38f9284c-1bb8-11e3-a402-0026b9326338
+angulate,shape,0,treatise_gloss,38f92914-1bb8-11e3-a402-0026b9326338
+basic,prominence,0,treatise_gloss,38f929dc-1bb8-11e3-a402-0026b9326338
+large,size,0,treatise_gloss,38f92aa4-1bb8-11e3-a402-0026b9326338
+distal,position,0,treatise_gloss,38f92b76-1bb8-11e3-a402-0026b9326338
+shortened,size,0,treatise_gloss,38f92c3e-1bb8-11e3-a402-0026b9326338
+subquadrate,shape,0,treatise_gloss,38f92d06-1bb8-11e3-a402-0026b9326338
+arcuate,shape,0,treatise_gloss,38f92dce-1bb8-11e3-a402-0026b9326338
+cylindrical,shape,0,treatise_gloss,38f92e96-1bb8-11e3-a402-0026b9326338
+transverse,orientation,0,treatise_gloss,38f92fd6-1bb8-11e3-a402-0026b9326338
+basal,position,0,treatise_gloss,38f930a8-1bb8-11e3-a402-0026b9326338
+third,count,0,treatise_gloss,38f93170-1bb8-11e3-a402-0026b9326338
+fourth,position,0,treatise_gloss,38f93238-1bb8-11e3-a402-0026b9326338
+ovate,shape,0,treatise_gloss,38f9330a-1bb8-11e3-a402-0026b9326338
+terminal,position,0,treatise_gloss,38f933d2-1bb8-11e3-a402-0026b9326338
+front,position,0,treatise_gloss,38f9349a-1bb8-11e3-a402-0026b9326338
+postaxial,position,0,treatise_gloss,38f93562-1bb8-11e3-a402-0026b9326338
+rostral,position,0,treatise_gloss,38f9362a-1bb8-11e3-a402-0026b9326338
+semielliptical,shape,0,treatise_gloss,38f936f2-1bb8-11e3-a402-0026b9326338
+falcate,shape,0,treatise_gloss,38f937c4-1bb8-11e3-a402-0026b9326338
+simplimarginate,shape,0,treatise_gloss,38f9388c-1bb8-11e3-a402-0026b9326338
+spectaculate,shape,0,treatise_gloss,38f93954-1bb8-11e3-a402-0026b9326338
+hindmost,position,0,treatise_gloss,38f93a26-1bb8-11e3-a402-0026b9326338
+ornament,structure,0,treatise_gloss,38f93aee-1bb8-11e3-a402-0026b9326338
+subrounded,shape,0,treatise_gloss,38f93bb6-1bb8-11e3-a402-0026b9326338
+undivided,fusion,0,treatise_gloss,38f93c7e-1bb8-11e3-a402-0026b9326338
+backswept,orientation,0,treatise_gloss,38f93d46-1bb8-11e3-a402-0026b9326338
+downsloping,orientation,0,treatise_gloss,38f93e18-1bb8-11e3-a402-0026b9326338
+hexagonal,shape,0,treatise_gloss,38f93ee0-1bb8-11e3-a402-0026b9326338
+angularity,character,0,treatise_gloss,38f93fa8-1bb8-11e3-a402-0026b9326338
+clavat,shape,0,treatise_gloss,38f94138-1bb8-11e3-a402-0026b9326338
+lunate,shape,0,treatise_gloss,38f94278-1bb8-11e3-a402-0026b9326338
+parabolic,shape,0,treatise_gloss,38f94408-1bb8-11e3-a402-0026b9326338
+parabolical,shape,0,treatise_gloss,38f944d0-1bb8-11e3-a402-0026b9326338
+roundish,shape,0,treatise_gloss,38f945a2-1bb8-11e3-a402-0026b9326338
+subcentral,position,0,treatise_gloss,38f9466a-1bb8-11e3-a402-0026b9326338
+terrace,position,0,treatise_gloss,38f94732-1bb8-11e3-a402-0026b9326338
+triannulate,shape,0,treatise_gloss,38f947fa-1bb8-11e3-a402-0026b9326338
+trifid,shape,0,treatise_gloss,38f948c2-1bb8-11e3-a402-0026b9326338
+axial,position,0,treatise_gloss,38f9498a-1bb8-11e3-a402-0026b9326338
+intergenal,position,0,treatise_gloss,38f94a5c-1bb8-11e3-a402-0026b9326338
+acrolobe,structure,0,treatise_gloss,38f94b24-1bb8-11e3-a402-0026b9326338
+acrolobes,structure,0,treatise_gloss,38f94bec-1bb8-11e3-a402-0026b9326338
+annulation,structure,0,treatise_gloss,38f94cbe-1bb8-11e3-a402-0026b9326338
+anteroaxis,structure,0,treatise_gloss,38f94d86-1bb8-11e3-a402-0026b9326338
+baccula,structure,0,treatise_gloss,38f94e4e-1bb8-11e3-a402-0026b9326338
+bella,structure,0,treatise_gloss,38f94f16-1bb8-11e3-a402-0026b9326338
+bosses,structure,0,treatise_gloss,38fb3d08-1bb8-11e3-a402-0026b9326338
+boundaries,structure,0,treatise_gloss,38fb3e02-1bb8-11e3-a402-0026b9326338
+branch,structure,0,treatise_gloss,38fb3ee8-1bb8-11e3-a402-0026b9326338
+cephalon,structure,0,treatise_gloss,38fb3fc4-1bb8-11e3-a402-0026b9326338
+clarella,structure,0,treatise_gloss,38fb40aa-1bb8-11e3-a402-0026b9326338
+cranidium,structure,0,treatise_gloss,38fb417c-1bb8-11e3-a402-0026b9326338
+culmination,structure,0,treatise_gloss,38fb424e-1bb8-11e3-a402-0026b9326338
+cuticle,structure,0,treatise_gloss,38fb4320-1bb8-11e3-a402-0026b9326338
+depressions,structure,0,treatise_gloss,38fb43f2-1bb8-11e3-a402-0026b9326338
+deuterolobe,structure,0,treatise_gloss,38fb44c4-1bb8-11e3-a402-0026b9326338
+doublure,structure,0,treatise_gloss,38fb465e-1bb8-11e3-a402-0026b9326338
+end,structure,0,treatise_gloss,38fb4730-1bb8-11e3-a402-0026b9326338
+eodiscoid,structure,0,treatise_gloss,38fb47f8-1bb8-11e3-a402-0026b9326338
+exoskeleton,structure,0,treatise_gloss,38fb48ca-1bb8-11e3-a402-0026b9326338
+extremities,structure,0,treatise_gloss,38fb499c-1bb8-11e3-a402-0026b9326338
+extremity,structure,0,treatise_gloss,38fb4a64-1bb8-11e3-a402-0026b9326338
+f1,structure,0,treatise_gloss,38fb4b36-1bb8-11e3-a402-0026b9326338
+f2,structure,0,treatise_gloss,38fb4c08-1bb8-11e3-a402-0026b9326338
+f3,structure,0,treatise_gloss,38fb4cd0-1bb8-11e3-a402-0026b9326338
+facet,structure,0,treatise_gloss,38fb4da2-1bb8-11e3-a402-0026b9326338
+fields,structure,0,treatise_gloss,38fb4e6a-1bb8-11e3-a402-0026b9326338
+fixigena,structure,0,treatise_gloss,38fb4f3c-1bb8-11e3-a402-0026b9326338
+fixigenae,structure,0,treatise_gloss,38fb500e-1bb8-11e3-a402-0026b9326338
+flange,structure,0,treatise_gloss,38fb50d6-1bb8-11e3-a402-0026b9326338
+fossula,structure,0,treatise_gloss,38fb51a8-1bb8-11e3-a402-0026b9326338
+fulcrum,structure,0,treatise_gloss,38fb527a-1bb8-11e3-a402-0026b9326338
+furrows,structure,0,treatise_gloss,38fb5342-1bb8-11e3-a402-0026b9326338
+gap,structure,0,treatise_gloss,38fb5414-1bb8-11e3-a402-0026b9326338
+genae,structure,0,treatise_gloss,38fb54e6-1bb8-11e3-a402-0026b9326338
+granule,structure,0,treatise_gloss,38fb55ae-1bb8-11e3-a402-0026b9326338
+granules,structure,0,treatise_gloss,38fb5676-1bb8-11e3-a402-0026b9326338
+hexagon,structure,0,treatise_gloss,38fb5752-1bb8-11e3-a402-0026b9326338
+hypostome,structure,0,treatise_gloss,38fb581a-1bb8-11e3-a402-0026b9326338
+indentations,structure,0,treatise_gloss,38fb58ec-1bb8-11e3-a402-0026b9326338
+ivshin,structure,0,treatise_gloss,38fb59be-1bb8-11e3-a402-0026b9326338
+knobs,structure,0,treatise_gloss,38fb5a86-1bb8-11e3-a402-0026b9326338
+lenses,structure,0,treatise_gloss,38fb5b58-1bb8-11e3-a402-0026b9326338
+librigena,structure,0,treatise_gloss,38fb5c2a-1bb8-11e3-a402-0026b9326338
+librigenae,structure,0,treatise_gloss,38fb5cf2-1bb8-11e3-a402-0026b9326338
+limbs,structure,0,treatise_gloss,38fb5dc4-1bb8-11e3-a402-0026b9326338
+lirae,structure,0,treatise_gloss,38fb5e8c-1bb8-11e3-a402-0026b9326338
+lobes,structure,0,treatise_gloss,38fb5f5e-1bb8-11e3-a402-0026b9326338
+macropleurae,structure,0,treatise_gloss,38fb6026-1bb8-11e3-a402-0026b9326338
+macropleural,structure,0,treatise_gloss,38fb60f8-1bb8-11e3-a402-0026b9326338
+macrospinose,structure,0,treatise_gloss,38fb61ca-1bb8-11e3-a402-0026b9326338
+maculae,structure,0,treatise_gloss,38fb629c-1bb8-11e3-a402-0026b9326338
+mallagnostus,structure,0,treatise_gloss,38fb6364-1bb8-11e3-a402-0026b9326338
+middle,structure,0,treatise_gloss,38fb6436-1bb8-11e3-a402-0026b9326338
+opisthoparian,structure,0,treatise_gloss,38fb6508-1bb8-11e3-a402-0026b9326338
+opisthothorax,structure,0,treatise_gloss,38fb65d0-1bb8-11e3-a402-0026b9326338
+pagetium,structure,0,treatise_gloss,38fb66a2-1bb8-11e3-a402-0026b9326338
+palpebral,structure,0,treatise_gloss,38fb676a-1bb8-11e3-a402-0026b9326338
+perforations,structure,0,treatise_gloss,38fb6832-1bb8-11e3-a402-0026b9326338
+piece,structure,0,treatise_gloss,38fb6904-1bb8-11e3-a402-0026b9326338
+plectrum,structure,0,treatise_gloss,38fb69cc-1bb8-11e3-a402-0026b9326338
+pleura,structure,0,treatise_gloss,38fb6a9e-1bb8-11e3-a402-0026b9326338
+pleurae,structure,0,treatise_gloss,38fb6b66-1bb8-11e3-a402-0026b9326338
+pleural,structure,0,treatise_gloss,38fb6c2e-1bb8-11e3-a402-0026b9326338
+polygon,structure,0,treatise_gloss,38fb6d00-1bb8-11e3-a402-0026b9326338
+polygons,structure,0,treatise_gloss,38fb71c4-1bb8-11e3-a402-0026b9326338
+posteroaxis,structure,0,treatise_gloss,38fb72b4-1bb8-11e3-a402-0026b9326338
+prosopon,structure,0,treatise_gloss,38fb7390-1bb8-11e3-a402-0026b9326338
+pseudoborder,structure,0,treatise_gloss,38fb746c-1bb8-11e3-a402-0026b9326338
+pseudopalpebral,structure,0,treatise_gloss,38fb755c-1bb8-11e3-a402-0026b9326338
+pustules,structure,0,treatise_gloss,38fb7624-1bb8-11e3-a402-0026b9326338
+pygidia,structure,0,treatise_gloss,38fb76ec-1bb8-11e3-a402-0026b9326338
+pygidium,structure,0,treatise_gloss,38fb77be-1bb8-11e3-a402-0026b9326338
+pygidum,structure,0,treatise_gloss,38fb7886-1bb8-11e3-a402-0026b9326338
+rib,structure,0,treatise_gloss,38fb7a20-1bb8-11e3-a402-0026b9326338
+ribs,structure,0,treatise_gloss,38fb7b06-1bb8-11e3-a402-0026b9326338
+rosette,structure,0,treatise_gloss,38fb7bce-1bb8-11e3-a402-0026b9326338
+scrobicule,structure,0,treatise_gloss,38fb7ca0-1bb8-11e3-a402-0026b9326338
+scrobicules,structure,0,treatise_gloss,38fb7d68-1bb8-11e3-a402-0026b9326338
+shield,structure,0,treatise_gloss,38fb7e30-1bb8-11e3-a402-0026b9326338
+shields,structure,0,treatise_gloss,38fb7f02-1bb8-11e3-a402-0026b9326338
+striga,structure,0,treatise_gloss,38fb7fca-1bb8-11e3-a402-0026b9326338
+swelling,structure,0,treatise_gloss,38fb809c-1bb8-11e3-a402-0026b9326338
+swellings,structure,0,treatise_gloss,38fb8164-1bb8-11e3-a402-0026b9326338
+terminations,structure,0,treatise_gloss,38fb8236-1bb8-11e3-a402-0026b9326338
+terminus,structure,0,treatise_gloss,38fb82fe-1bb8-11e3-a402-0026b9326338
+venter,structure,0,treatise_gloss,38fb83c6-1bb8-11e3-a402-0026b9326338
+antennae,structure,0,treatise_gloss,38fb8498-1bb8-11e3-a402-0026b9326338
+aperture,structure,0,treatise_gloss,38fb856a-1bb8-11e3-a402-0026b9326338
+area,structure,0,treatise_gloss,38fb8632-1bb8-11e3-a402-0026b9326338
+areas,structure,0,treatise_gloss,38fb86fa-1bb8-11e3-a402-0026b9326338
+axis,structure,0,treatise_gloss,38fb87cc-1bb8-11e3-a402-0026b9326338
+band,structure,0,treatise_gloss,38fb8894-1bb8-11e3-a402-0026b9326338
+bands,structure,0,treatise_gloss,38fb8966-1bb8-11e3-a402-0026b9326338
+bases,structure,0,treatise_gloss,38fb8a2e-1bb8-11e3-a402-0026b9326338
+body,structure,0,treatise_gloss,38fb8af6-1bb8-11e3-a402-0026b9326338
+border,structure,0,treatise_gloss,38fb8bc8-1bb8-11e3-a402-0026b9326338
+borders,structure,0,treatise_gloss,38fb8c90-1bb8-11e3-a402-0026b9326338
+branches,structure,0,treatise_gloss,38fb8d62-1bb8-11e3-a402-0026b9326338
+cheek,structure,0,treatise_gloss,38fb8e2a-1bb8-11e3-a402-0026b9326338
+cheeks,structure,0,treatise_gloss,38fb8efc-1bb8-11e3-a402-0026b9326338
+collar,structure,0,treatise_gloss,38fb8fc4-1bb8-11e3-a402-0026b9326338
+denticles,structure,0,treatise_gloss,38fb908c-1bb8-11e3-a402-0026b9326338
+depression,structure,0,treatise_gloss,38fb915e-1bb8-11e3-a402-0026b9326338
+disc,structure,0,treatise_gloss,38fb9230-1bb8-11e3-a402-0026b9326338
+edge,structure,0,treatise_gloss,38fb92f8-1bb8-11e3-a402-0026b9326338
+ends,structure,0,treatise_gloss,38fb93c0-1bb8-11e3-a402-0026b9326338
+eye,structure,0,treatise_gloss,38fb9492-1bb8-11e3-a402-0026b9326338
+eyes,structure,0,treatise_gloss,38fb955a-1bb8-11e3-a402-0026b9326338
+face,structure,0,treatise_gloss,38fb962c-1bb8-11e3-a402-0026b9326338
+facets,structure,0,treatise_gloss,38fb96f4-1bb8-11e3-a402-0026b9326338
+field,structure,0,treatise_gloss,38fb97bc-1bb8-11e3-a402-0026b9326338
+flanks,structure,0,treatise_gloss,38fb988e-1bb8-11e3-a402-0026b9326338
+furrow,structure,0,treatise_gloss,38fb9956-1bb8-11e3-a402-0026b9326338
+gena,structure,0,treatise_gloss,38fb9a28-1bb8-11e3-a402-0026b9326338
+groove,structure,0,treatise_gloss,38fb9af0-1bb8-11e3-a402-0026b9326338
+grooves,structure,0,treatise_gloss,38fb9bc2-1bb8-11e3-a402-0026b9326338
+holotype,structure,0,treatise_gloss,38fb9c8a-1bb8-11e3-a402-0026b9326338
+keel,structure,0,treatise_gloss,38fb9d5c-1bb8-11e3-a402-0026b9326338
+limb,structure,0,treatise_gloss,38fb9e24-1bb8-11e3-a402-0026b9326338
+line,structure,0,treatise_gloss,38fba0b8-1bb8-11e3-a402-0026b9326338
+lines,structure,0,treatise_gloss,38fba194-1bb8-11e3-a402-0026b9326338
+lobe,structure,0,treatise_gloss,38fba266-1bb8-11e3-a402-0026b9326338
+margin,structure,0,treatise_gloss,38fba32e-1bb8-11e3-a402-0026b9326338
+margins,structure,0,treatise_gloss,38fba40a-1bb8-11e3-a402-0026b9326338
+markings,structure,0,treatise_gloss,38fba4d2-1bb8-11e3-a402-0026b9326338
+mouth,structure,0,treatise_gloss,38fba5a4-1bb8-11e3-a402-0026b9326338
+node,structure,0,treatise_gloss,38fba676-1bb8-11e3-a402-0026b9326338
+nodes,structure,0,treatise_gloss,38fba73e-1bb8-11e3-a402-0026b9326338
+notch,structure,0,treatise_gloss,38fba806-1bb8-11e3-a402-0026b9326338
+part,structure,0,treatise_gloss,38fba8d8-1bb8-11e3-a402-0026b9326338
+parts,structure,0,treatise_gloss,38fba9aa-1bb8-11e3-a402-0026b9326338
+pit,structure,0,treatise_gloss,38fbaa72-1bb8-11e3-a402-0026b9326338
+pits,structure,0,treatise_gloss,38fbab44-1bb8-11e3-a402-0026b9326338
+plate,structure,0,treatise_gloss,38fbac16-1bb8-11e3-a402-0026b9326338
+portion,structure,0,treatise_gloss,38fbacde-1bb8-11e3-a402-0026b9326338
+portions,structure,0,treatise_gloss,38fbada6-1bb8-11e3-a402-0026b9326338
+projection,structure,0,treatise_gloss,38fbae78-1bb8-11e3-a402-0026b9326338
+projections,structure,0,treatise_gloss,38fbaf4a-1bb8-11e3-a402-0026b9326338
+protrusion,structure,0,treatise_gloss,38fbb012-1bb8-11e3-a402-0026b9326338
+region,structure,0,treatise_gloss,38fbb0e4-1bb8-11e3-a402-0026b9326338
+regions,structure,0,treatise_gloss,38fbb1ac-1bb8-11e3-a402-0026b9326338
+ridge,structure,0,treatise_gloss,38fbb27e-1bb8-11e3-a402-0026b9326338
+ridges,structure,0,treatise_gloss,38fbb346-1bb8-11e3-a402-0026b9326338
+rings,structure,0,treatise_gloss,38fbb418-1bb8-11e3-a402-0026b9326338
+sculpture,structure,0,treatise_gloss,38fbb4e0-1bb8-11e3-a402-0026b9326338
+section,structure,0,treatise_gloss,38fbb5a8-1bb8-11e3-a402-0026b9326338
+sections,structure,0,treatise_gloss,38fbb67a-1bb8-11e3-a402-0026b9326338
+slit,structure,0,treatise_gloss,38fbb742-1bb8-11e3-a402-0026b9326338
+spine,structure,0,treatise_gloss,38fbb80a-1bb8-11e3-a402-0026b9326338
+spines,structure,0,treatise_gloss,38fbb8dc-1bb8-11e3-a402-0026b9326338
+striations,structure,0,treatise_gloss,38fbb9ae-1bb8-11e3-a402-0026b9326338
+sulcus,structure,0,treatise_gloss,38fbba76-1bb8-11e3-a402-0026b9326338
+suture,structure,0,treatise_gloss,38fbbb48-1bb8-11e3-a402-0026b9326338
+sutures,structure,0,treatise_gloss,38fbbc10-1bb8-11e3-a402-0026b9326338
+thorax,structure,0,treatise_gloss,38fbbcd8-1bb8-11e3-a402-0026b9326338
+tip,structure,0,treatise_gloss,38fbbdaa-1bb8-11e3-a402-0026b9326338
+tips,structure,0,treatise_gloss,38fbbe72-1bb8-11e3-a402-0026b9326338
+tubercle,structure,0,treatise_gloss,38fbbf44-1bb8-11e3-a402-0026b9326338
+tubercles,structure,0,treatise_gloss,38fbc00c-1bb8-11e3-a402-0026b9326338
+wing,structure,0,treatise_gloss,38fbc0de-1bb8-11e3-a402-0026b9326338
+wings,structure,0,treatise_gloss,38fbc1a6-1bb8-11e3-a402-0026b9326338
+abathochroal,structure,0,treatise_gloss,38fbc26e-1bb8-11e3-a402-0026b9326338
+apodemal,structure,0,treatise_gloss,38fbc340-1bb8-11e3-a402-0026b9326338
+ridgelike,shape,0,treatise_gloss,38fbc408-1bb8-11e3-a402-0026b9326338
+trilobate,shape,0,treatise_gloss,38fbc4d0-1bb8-11e3-a402-0026b9326338
+deuterolobate,shape,0,treatise_gloss,38fbc5a2-1bb8-11e3-a402-0026b9326338
+axiolobate,shape,0,treatise_gloss,38fbc674-1bb8-11e3-a402-0026b9326338
+cephalothoracic,structure,0,treatise_gloss,38fbc73c-1bb8-11e3-a402-0026b9326338
+circumocular,structure,0,treatise_gloss,38fbc80e-1bb8-11e3-a402-0026b9326338
+ocular,structure,0,treatise_gloss,38fbc8e0-1bb8-11e3-a402-0026b9326338
+extraocular,structure,0,treatise_gloss,38fbc9a8-1bb8-11e3-a402-0026b9326338
+spinulelike,shape,0,treatise_gloss,38fbca7a-1bb8-11e3-a402-0026b9326338
+pitlike,shape,0,treatise_gloss,38fbcb42-1bb8-11e3-a402-0026b9326338
+flasklike,shape,0,treatise_gloss,38fbcc0a-1bb8-11e3-a402-0026b9326338
+expanded,size,0,treatise_gloss,38fbccdc-1bb8-11e3-a402-0026b9326338
+unfurrowed,structure,0,treatise_gloss,38fbcdae-1bb8-11e3-a402-0026b9326338
+furrowed,structure,0,treatise_gloss,38fbce76-1bb8-11e3-a402-0026b9326338
+slitlike,shape,0,treatise_gloss,38fbcf3e-1bb8-11e3-a402-0026b9326338
+subpyriform,shape,0,treatise_gloss,38fbd010-1bb8-11e3-a402-0026b9326338
+thornlike,shape,0,treatise_gloss,38fbd0d8-1bb8-11e3-a402-0026b9326338
+papilionate,shape,0,treatise_gloss,38fbd1aa-1bb8-11e3-a402-0026b9326338
+fulcral,position,0,treatise_gloss,38fbd27c-1bb8-11e3-a402-0026b9326338
+intranotular,position,0,treatise_gloss,38fbd344-1bb8-11e3-a402-0026b9326338
+notular,position,0,treatise_gloss,38fbd416-1bb8-11e3-a402-0026b9326338
+incipient,prominence,0,treatise_gloss,38fbd4e8-1bb8-11e3-a402-0026b9326338
+librigenal,position,0,treatise_gloss,38fbd5b0-1bb8-11e3-a402-0026b9326338
+preglabellar,position,0,treatise_gloss,38fbd682-1bb8-11e3-a402-0026b9326338
+glabellar,position,0,treatise_gloss,38fbd74a-1bb8-11e3-a402-0026b9326338
+procranidial,position,0,treatise_gloss,38fbd81c-1bb8-11e3-a402-0026b9326338
+pygidial,position,0,treatise_gloss,38fbd8e4-1bb8-11e3-a402-0026b9326338
+no,occurrence,0,treatise_gloss,38fbda7e-1bb8-11e3-a402-0026b9326338
+weak,prominence,0,treatise_gloss,38fbdb46-1bb8-11e3-a402-0026b9326338
+effaced,prominence,0,treatise_gloss,38fbdc18-1bb8-11e3-a402-0026b9326338
+sided,structure,0,treatise_gloss,38fbdcea-1bb8-11e3-a402-0026b9326338
+zonate,structure,0,treatise_gloss,38fbddb2-1bb8-11e3-a402-0026b9326338
+interpleural,position,0,treatise_gloss,38fbde7a-1bb8-11e3-a402-0026b9326338
+proparian,position,0,treatise_gloss,38fbdf4c-1bb8-11e3-a402-0026b9326338
+caecal,position,0,treatise_gloss,38fbe014-1bb8-11e3-a402-0026b9326338
+biramous,shape,0,treatise_gloss,38fbe0e6-1bb8-11e3-a402-0026b9326338
+size,character,0,treatise_gloss,38fbe1b8-1bb8-11e3-a402-0026b9326338
+depressed,shape,0,treatise_gloss,38fbe280-1bb8-11e3-a402-0026b9326338
+impressed,shape,0,treatise_gloss,38fbe348-1bb8-11e3-a402-0026b9326338
+perrostral,structure,0,treatise_gloss,38fbe41a-1bb8-11e3-a402-0026b9326338
+semiankylosed,fusion,0,treatise_gloss,38fbe4ec-1bb8-11e3-a402-0026b9326338
+midmost,position,0,treatise_gloss,38fbe5b4-1bb8-11e3-a402-0026b9326338
+developed,prominence,0,treatise_gloss,38fbe67c-1bb8-11e3-a402-0026b9326338
+modified,prominence,0,treatise_gloss,38fbe74e-1bb8-11e3-a402-0026b9326338
+constricted,shape,0,treatise_gloss,38fbe820-1bb8-11e3-a402-0026b9326338
+isopygous,size,0,treatise_gloss,38fbe8e8-1bb8-11e3-a402-0026b9326338
+connective,structure,0,treatise_gloss,38fbe9ba-1bb8-11e3-a402-0026b9326338
+paradoublural,structure,0,treatise_gloss,38fbea82-1bb8-11e3-a402-0026b9326338
+rhaptagnostoid,structure,0,treatise_gloss,38fbeb54-1bb8-11e3-a402-0026b9326338
+midlength,position,0,treatise_gloss,38fbec1c-1bb8-11e3-a402-0026b9326338
+deliquiate,shape,0,treatise_gloss,38fbecee-1bb8-11e3-a402-0026b9326338
+moderate,size,0,treatise_gloss,38fbef50-1bb8-11e3-a402-0026b9326338
+s,structure,0,treatise_gloss,38fbf022-1bb8-11e3-a402-0026b9326338
+s2,structure,0,treatise_gloss,38fbf0ea-1bb8-11e3-a402-0026b9326338
+s3,structure,0,treatise_gloss,38fbf1bc-1bb8-11e3-a402-0026b9326338
+lo,structure,0,treatise_gloss,38fbf284-1bb8-11e3-a402-0026b9326338
+m1,structure,0,treatise_gloss,38fbf356-1bb8-11e3-a402-0026b9326338
+l3,structure,0,treatise_gloss,38fbf41e-1bb8-11e3-a402-0026b9326338
+m2,structure,0,treatise_gloss,38fbf4f0-1bb8-11e3-a402-0026b9326338
+la,structure,0,treatise_gloss,38fbf5b8-1bb8-11e3-a402-0026b9326338
+l1,structure,0,treatise_gloss,38fbf680-1bb8-11e3-a402-0026b9326338
+l2,structure,0,treatise_gloss,38fbf752-1bb8-11e3-a402-0026b9326338
+l4,structure,0,treatise_gloss,38fbf81a-1bb8-11e3-a402-0026b9326338
+cambrian,geological age,0,treatise_gloss,38fbf8ec-1bb8-11e3-a402-0026b9326338
+closer,position,0,treatise_gloss,38fbf9be-1bb8-11e3-a402-0026b9326338
+close,position,0,treatise_gloss,38fbfa86-1bb8-11e3-a402-0026b9326338
+discontinuous,position,0,treatise_gloss,38fbfb58-1bb8-11e3-a402-0026b9326338
+tripartite,architecture,0,treatise_gloss,38fbfc20-1bb8-11e3-a402-0026b9326338
+granulose,surface sculpture,0,treatise_gloss,38fbfcf2-1bb8-11e3-a402-0026b9326338
+natant,growth form,0,treatise_gloss,38fbfdba-1bb8-11e3-a402-0026b9326338
+adult,ontogeny,0,treatise_gloss,38fbfe8c-1bb8-11e3-a402-0026b9326338
+specimens,structure,0,treatise_gloss,38fbff5e-1bb8-11e3-a402-0026b9326338
+specimen,structure,0,treatise_gloss,38fc0026-1bb8-11e3-a402-0026b9326338
+adults,ontogeny,0,treatise_gloss,38fc00ee-1bb8-11e3-a402-0026b9326338
+molds,structure,0,treatise_gloss,38fc01c0-1bb8-11e3-a402-0026b9326338
+mold,structure,0,treatise_gloss,38fc0292-1bb8-11e3-a402-0026b9326338
+lense,structure,0,treatise_gloss,38fc035a-1bb8-11e3-a402-0026b9326338
+cranidial,structure,0,treatise_gloss,38fc0422-1bb8-11e3-a402-0026b9326338
+base,structure,0,treatise_gloss,38fc04f4-1bb8-11e3-a402-0026b9326338
+bertillon,surface sculpture,0,treatise_gloss,38fc05bc-1bb8-11e3-a402-0026b9326338
+spinose,surface sculpture,0,treatise_gloss,38fc068e-1bb8-11e3-a402-0026b9326338
+nonscrobiculate,surface sculpture,0,treatise_gloss,38fc0760-1bb8-11e3-a402-0026b9326338
+nonspinose,surface sculpture,0,treatise_gloss,38fc0828-1bb8-11e3-a402-0026b9326338
+rimlike,surface sculpture,0,treatise_gloss,38fc08fa-1bb8-11e3-a402-0026b9326338
+serrated,surface sculpture,0,treatise_gloss,38fc09cc-1bb8-11e3-a402-0026b9326338
+narrow,width,0,treatise_gloss,38fc0a94-1bb8-11e3-a402-0026b9326338
+incomplete,preservation,0,treatise_gloss,38fc0b66-1bb8-11e3-a402-0026b9326338
+divergent,shape,0,treatise_gloss,38fc0c2e-1bb8-11e3-a402-0026b9326338
+sinuous,shape,0,treatise_gloss,38fc0cf6-1bb8-11e3-a402-0026b9326338
+straight,shape,0,treatise_gloss,38fc0dc8-1bb8-11e3-a402-0026b9326338
+subparallel,shape,0,treatise_gloss,38fc0e9a-1bb8-11e3-a402-0026b9326338
+protaspi,structure,0,treatise_gloss,38fc0f62-1bb8-11e3-a402-0026b9326338
+protaspide,structure,0,treatise_gloss,38fc102a-1bb8-11e3-a402-0026b9326338
+protaspides,structure,0,treatise_gloss,38fc10fc-1bb8-11e3-a402-0026b9326338
+protaspis,structure,0,treatise_gloss,38fc11ce-1bb8-11e3-a402-0026b9326338
+morphology,character,0,treatise_gloss,38fc1296-1bb8-11e3-a402-0026b9326338
+multisegmented,architecture,0,treatise_gloss,38fc1368-1bb8-11e3-a402-0026b9326338
+trisegmented,architecture,0,treatise_gloss,38fc143a-1bb8-11e3-a402-0026b9326338
+segment,structure,0,treatise_gloss,38fc1502-1bb8-11e3-a402-0026b9326338
+segments,structure,0,treatise_gloss,38fc15d4-1bb8-11e3-a402-0026b9326338
+segmentation,character,0,treatise_gloss,38fc176e-1bb8-11e3-a402-0026b9326338
+paratype,structure,0,treatise_gloss,38fc1840-1bb8-11e3-a402-0026b9326338
+paratypes,structure,0,treatise_gloss,38fc1912-1bb8-11e3-a402-0026b9326338
+suborder,taxon class,0,treatise_gloss,38fc19da-1bb8-11e3-a402-0026b9326338
+superfamily,taxon class,0,treatise_gloss,38fc20ec-1bb8-11e3-a402-0026b9326338
+taxa,taxon class,0,treatise_gloss,38fc21c8-1bb8-11e3-a402-0026b9326338
+acadoparadoxides,taxon name,0,treatise_gloss,38fc2290-1bb8-11e3-a402-0026b9326338
+agnostina,taxon name,0,treatise_gloss,38fc2362-1bb8-11e3-a402-0026b9326338
+agnostinae,taxon name,0,treatise_gloss,38fc242a-1bb8-11e3-a402-0026b9326338
+anopole_nus,taxon name,0,treatise_gloss,38fc24fc-1bb8-11e3-a402-0026b9326338
+arthropod,taxon name,0,treatise_gloss,38fc25ce-1bb8-11e3-a402-0026b9326338
+arthropods,taxon name,0,treatise_gloss,38fc2696-1bb8-11e3-a402-0026b9326338
+belliceps,taxon name,0,treatise_gloss,38fc2768-1bb8-11e3-a402-0026b9326338
+centropleura,taxon name,0,treatise_gloss,38fc2830-1bb8-11e3-a402-0026b9326338
+centropleuridae,taxon name,0,treatise_gloss,38fc2902-1bb8-11e3-a402-0026b9326338
+corynexochida,taxon name,0,treatise_gloss,38fc2a9c-1bb8-11e3-a402-0026b9326338
+corynexochidae,taxon name,0,treatise_gloss,38fc2b78-1bb8-11e3-a402-0026b9326338
+dolerolenus,taxon name,0,treatise_gloss,38fc2d12-1bb8-11e3-a402-0026b9326338
+drepanopyge,taxon name,0,treatise_gloss,38fc2de4-1bb8-11e3-a402-0026b9326338
+eccaparadoxides,taxon name,0,treatise_gloss,38fc2eac-1bb8-11e3-a402-0026b9326338
+ellipsocephaloidea,taxon name,0,treatise_gloss,38fc2f74-1bb8-11e3-a402-0026b9326338
+eoredlichia,taxon name,0,treatise_gloss,38fc3046-1bb8-11e3-a402-0026b9326338
+fallotaspidoidea,taxon name,0,treatise_gloss,38fc3118-1bb8-11e3-a402-0026b9326338
+galbagnostus,taxon name,0,treatise_gloss,38fc31e0-1bb8-11e3-a402-0026b9326338
+holaspi,taxon name,0,treatise_gloss,38fc32b2-1bb8-11e3-a402-0026b9326338
+holaspides,taxon name,0,treatise_gloss,38fc337a-1bb8-11e3-a402-0026b9326338
+holaspis,taxon name,0,treatise_gloss,38fc344c-1bb8-11e3-a402-0026b9326338
+hongshiyanaspis,taxon name,0,treatise_gloss,38fc3514-1bb8-11e3-a402-0026b9326338
+hypagnostus,taxon name,0,treatise_gloss,38fc35e6-1bb8-11e3-a402-0026b9326338
+inella,taxon name,0,treatise_gloss,38fc36ae-1bb8-11e3-a402-0026b9326338
+innitagnostus,taxon name,0,treatise_gloss,38fc3776-1bb8-11e3-a402-0026b9326338
+kepingaspis,taxon name,0,treatise_gloss,38fc3848-1bb8-11e3-a402-0026b9326338
+kingstoniidae,taxon name,0,treatise_gloss,38fc3910-1bb8-11e3-a402-0026b9326338
+mayiella,taxon name,0,treatise_gloss,38fc39e2-1bb8-11e3-a402-0026b9326338
+meraspi,taxon name,0,treatise_gloss,38fc3aaa-1bb8-11e3-a402-0026b9326338
+meraspis,taxon name,0,treatise_gloss,38fc3b72-1bb8-11e3-a402-0026b9326338
+metadoxides,taxon name,0,treatise_gloss,38fc3c44-1bb8-11e3-a402-0026b9326338
+metaredlichia,taxon name,0,treatise_gloss,38fc3d16-1bb8-11e3-a402-0026b9326338
+olenellina,taxon name,0,treatise_gloss,38fc3dde-1bb8-11e3-a402-0026b9326338
+olenellinid,taxon name,0,treatise_gloss,38fc3ea6-1bb8-11e3-a402-0026b9326338
+pagetia,taxon name,0,treatise_gloss,38fc4158-1bb8-11e3-a402-0026b9326338
+parabadiella,taxon name,0,treatise_gloss,38fc422a-1bb8-11e3-a402-0026b9326338
+paradoxididae,taxon name,0,treatise_gloss,38fc42f2-1bb8-11e3-a402-0026b9326338
+peronopsis,taxon name,0,treatise_gloss,38fc43ba-1bb8-11e3-a402-0026b9326338
+plutonides,taxon name,0,treatise_gloss,38fc448c-1bb8-11e3-a402-0026b9326338
+pseudagnostines,taxon name,0,treatise_gloss,38fc4554-1bb8-11e3-a402-0026b9326338
+pseudoresserops,taxon name,0,treatise_gloss,38fc461c-1bb8-11e3-a402-0026b9326338
+redlichia,taxon name,0,treatise_gloss,38fc46e4-1bb8-11e3-a402-0026b9326338
+redlichiina,taxon name,0,treatise_gloss,38fc47ac-1bb8-11e3-a402-0026b9326338
+rhaptagnostus,taxon name,0,treatise_gloss,38fc4874-1bb8-11e3-a402-0026b9326338
+saukianda,taxon name,0,treatise_gloss,38fc493c-1bb8-11e3-a402-0026b9326338
+serrodiscus,taxon name,0,treatise_gloss,38fc4a04-1bb8-11e3-a402-0026b9326338
+tasagnostus,taxon name,0,treatise_gloss,38fc4ac2-1bb8-11e3-a402-0026b9326338
+triangulaspi,taxon name,0,treatise_gloss,38fc4b8a-1bb8-11e3-a402-0026b9326338
+triangulaspis,taxon name,0,treatise_gloss,38fc4c52-1bb8-11e3-a402-0026b9326338
+trilobite,taxon name,0,treatise_gloss,38fc4d1a-1bb8-11e3-a402-0026b9326338
+trilobites,taxon name,0,treatise_gloss,38fc4de2-1bb8-11e3-a402-0026b9326338
+ushbaspis,taxon name,0,treatise_gloss,38fc4eaa-1bb8-11e3-a402-0026b9326338
+wutingaspis,taxon name,0,treatise_gloss,38fc4f72-1bb8-11e3-a402-0026b9326338
+yiliangella,taxon name,0,treatise_gloss,38fc503a-1bb8-11e3-a402-0026b9326338
+yinites,taxon name,0,treatise_gloss,38fc50f8-1bb8-11e3-a402-0026b9326338
+yukoniidae,taxon name,0,treatise_gloss,38fc51c0-1bb8-11e3-a402-0026b9326338
+yun_nanaspis,taxon name,0,treatise_gloss,38fc5288-1bb8-11e3-a402-0026b9326338
+secondary,prominence,0,treatise_gloss,38fc5350-1bb8-11e3-a402-0026b9326338
+sequence,structure,0,treatise_gloss,38fc5418-1bb8-11e3-a402-0026b9326338
+redlich_iidae,taxon name,0,treatise_gloss,38fc54d6-1bb8-11e3-a402-0026b9326338
+suborder,taxon class,0,treatise_gloss,38fc55a8-1bb8-11e3-a402-0026b9326338
+subfamily,taxon class,0,treatise_gloss,38fc5670-1bb8-11e3-a402-0026b9326338
+incomplete,architecture,0,treatise_gloss,38fc572e-1bb8-11e3-a402-0026b9326338
+simple,architecture,0,treatise_gloss,38fc57f6-1bb8-11e3-a402-0026b9326338
+continuing,architecture,0,treatise_gloss,38fc58be-1bb8-11e3-a402-0026b9326338
+prolate,shape,0,treatise_gloss,38fc597c-1bb8-11e3-a402-0026b9326338
+spheroidal,shape,0,treatise_gloss,38fc5a44-1bb8-11e3-a402-0026b9326338
+divided,shape,0,treatise_gloss,38fc5b0c-1bb8-11e3-a402-0026b9326338
+swollen,shape,0,treatise_gloss,38fc5bd4-1bb8-11e3-a402-0026b9326338
+wavy,shape,0,treatise_gloss,38fc5c9c-1bb8-11e3-a402-0026b9326338
+oblate,shape,0,treatise_gloss,38fc5d5a-1bb8-11e3-a402-0026b9326338
+subglobular,shape,0,treatise_gloss,38fc5e22-1bb8-11e3-a402-0026b9326338
+ellipsoidal,shape,0,treatise_gloss,38fc5eea-1bb8-11e3-a402-0026b9326338
+ovoid,shape,0,treatise_gloss,38fc5fb2-1bb8-11e3-a402-0026b9326338
+ellipsoid,shape,0,treatise_gloss,38fc6070-1bb8-11e3-a402-0026b9326338
+pyriform,shape,0,treatise_gloss,38fc6138-1bb8-11e3-a402-0026b9326338
+coronula,structure,0,treatise_gloss,38fc62c8-1bb8-11e3-a402-0026b9326338
+utricles,structure,0,treatise_gloss,38fc6390-1bb8-11e3-a402-0026b9326338
+external,position,0,treatise_gloss,38fc6458-1bb8-11e3-a402-0026b9326338
+opercular,structure,0,treatise_gloss,38fc6520-1bb8-11e3-a402-0026b9326338
+bottle,shape,0,treatise_gloss,38fc65de-1bb8-11e3-a402-0026b9326338
+higher,height,0,treatise_gloss,38fc66a6-1bb8-11e3-a402-0026b9326338
+point,structure,0,treatise_gloss,38fc676e-1bb8-11e3-a402-0026b9326338
+subovoidal,shape,0,treatise_gloss,38fc682c-1bb8-11e3-a402-0026b9326338
+widening,width,0,treatise_gloss,38fc68f4-1bb8-11e3-a402-0026b9326338
+algal,structure,0,treatise_gloss,38fc69bc-1bb8-11e3-a402-0026b9326338
+bulbiform,shape,0,treatise_gloss,38fc6a7a-1bb8-11e3-a402-0026b9326338
+cuneiform,shape,0,treatise_gloss,38fc6b42-1bb8-11e3-a402-0026b9326338
+ovoidal,shape,0,treatise_gloss,38fc6c0a-1bb8-11e3-a402-0026b9326338
+pear,shape,0,treatise_gloss,38fc6cc8-1bb8-11e3-a402-0026b9326338
+polar,position,0,treatise_gloss,38fc6ed0-1bb8-11e3-a402-0026b9326338
+significant,prominence,0,treatise_gloss,38fc6fa2-1bb8-11e3-a402-0026b9326338
+stellatiform,shape,0,treatise_gloss,38fc706a-1bb8-11e3-a402-0026b9326338
+suboblate,shape,0,treatise_gloss,38fc7132-1bb8-11e3-a402-0026b9326338
+subovoid,shape,0,treatise_gloss,38fc71fa-1bb8-11e3-a402-0026b9326338
+ten,count,0,treatise_gloss,38fc72c2-1bb8-11e3-a402-0026b9326338
+angle,structure,0,treatise_gloss,38fc7380-1bb8-11e3-a402-0026b9326338
+angles,structure,0,treatise_gloss,38fc7448-1bb8-11e3-a402-0026b9326338
+apertures,structure,0,treatise_gloss,38fc7510-1bb8-11e3-a402-0026b9326338
+apparatus,structure,0,treatise_gloss,38fc75d8-1bb8-11e3-a402-0026b9326338
+basal_plate,structure,0,treatise_gloss,38fc76a0-1bb8-11e3-a402-0026b9326338
+branchlets,structure,0,treatise_gloss,38fc7768-1bb8-11e3-a402-0026b9326338
+canal,structure,0,treatise_gloss,38fc7830-1bb8-11e3-a402-0026b9326338
+canals,structure,0,treatise_gloss,38fc78f8-1bb8-11e3-a402-0026b9326338
+cap,structure,0,treatise_gloss,38fc79c0-1bb8-11e3-a402-0026b9326338
+cells,structure,0,treatise_gloss,38fc7a7e-1bb8-11e3-a402-0026b9326338
+constrictions,structure,0,treatise_gloss,38fc7b46-1bb8-11e3-a402-0026b9326338
+convolution,structure,0,treatise_gloss,38fc7c0e-1bb8-11e3-a402-0026b9326338
+convolutions,structure,0,treatise_gloss,38fc7cd6-1bb8-11e3-a402-0026b9326338
+cortex,structure,0,treatise_gloss,38fc7d94-1bb8-11e3-a402-0026b9326338
+cover,structure,0,treatise_gloss,38fc7e5c-1bb8-11e3-a402-0026b9326338
+crests,structure,0,treatise_gloss,38fc7f24-1bb8-11e3-a402-0026b9326338
+decorations,structure,0,treatise_gloss,38fc7fec-1bb8-11e3-a402-0026b9326338
+egg,structure,0,treatise_gloss,38fc80aa-1bb8-11e3-a402-0026b9326338
+ending,structure,0,treatise_gloss,38fc8172-1bb8-11e3-a402-0026b9326338
+endings,structure,0,treatise_gloss,38fc823a-1bb8-11e3-a402-0026b9326338
+equator,structure,0,treatise_gloss,38fc8302-1bb8-11e3-a402-0026b9326338
+expansions,structure,0,treatise_gloss,38fc83ca-1bb8-11e3-a402-0026b9326338
+faces,structure,0,treatise_gloss,38fc8492-1bb8-11e3-a402-0026b9326338
+fan,structure,0,treatise_gloss,38fc8550-1bb8-11e3-a402-0026b9326338
+fans,structure,0,treatise_gloss,38fc8618-1bb8-11e3-a402-0026b9326338
+filaments,structure,0,treatise_gloss,38fc86e0-1bb8-11e3-a402-0026b9326338
+fold,structure,0,treatise_gloss,38fc87a8-1bb8-11e3-a402-0026b9326338
+folds,structure,0,treatise_gloss,38fc8866-1bb8-11e3-a402-0026b9326338
+fork,structure,0,treatise_gloss,38fc892e-1bb8-11e3-a402-0026b9326338
+fossils,structure,0,treatise_gloss,38fc89f6-1bb8-11e3-a402-0026b9326338
+fragment,structure,0,treatise_gloss,38fc8abe-1bb8-11e3-a402-0026b9326338
+fructification,structure,0,treatise_gloss,38fc8b86-1bb8-11e3-a402-0026b9326338
+funnel,structure,0,treatise_gloss,38fc8c4e-1bb8-11e3-a402-0026b9326338
+gametangia,structure,0,treatise_gloss,38fc8d0c-1bb8-11e3-a402-0026b9326338
+genera,taxon class,0,treatise_gloss,38fc8dd4-1bb8-11e3-a402-0026b9326338
+genus,taxon class,0,treatise_gloss,38fc8e9c-1bb8-11e3-a402-0026b9326338
+grambast,structure,0,treatise_gloss,38fc8f64-1bb8-11e3-a402-0026b9326338
+gyrogonite,structure,0,treatise_gloss,38fc902c-1bb8-11e3-a402-0026b9326338
+gyrogonites,structure,0,treatise_gloss,38fc90f4-1bb8-11e3-a402-0026b9326338
+instances,structure,0,treatise_gloss,38fc91b2-1bb8-11e3-a402-0026b9326338
+junction,structure,0,treatise_gloss,38fc9284-1bb8-11e3-a402-0026b9326338
+layer,structure,0,treatise_gloss,38fc9342-1bb8-11e3-a402-0026b9326338
+layers,structure,0,treatise_gloss,38fc940a-1bb8-11e3-a402-0026b9326338
+material,structure,0,treatise_gloss,38fc94d2-1bb8-11e3-a402-0026b9326338
+materials,structure,0,treatise_gloss,38fc959a-1bb8-11e3-a402-0026b9326338
+nodules,structure,0,treatise_gloss,38fc9658-1bb8-11e3-a402-0026b9326338
+oogonia,structure,0,treatise_gloss,38fc9720-1bb8-11e3-a402-0026b9326338
+oogonium,structure,0,treatise_gloss,38fc97e8-1bb8-11e3-a402-0026b9326338
+oospore,structure,0,treatise_gloss,38fc98b0-1bb8-11e3-a402-0026b9326338
+openings,structure,0,treatise_gloss,38fc996e-1bb8-11e3-a402-0026b9326338
+ornamentation,structure,0,treatise_gloss,38fc9a40-1bb8-11e3-a402-0026b9326338
+outlets,structure,0,treatise_gloss,38fc9afe-1bb8-11e3-a402-0026b9326338
+phylum,structure,0,treatise_gloss,38fc9bc6-1bb8-11e3-a402-0026b9326338
+pieces,structure,0,treatise_gloss,38fc9c8e-1bb8-11e3-a402-0026b9326338
+plates,structure,0,treatise_gloss,38fc9d56-1bb8-11e3-a402-0026b9326338
+plug,structure,0,treatise_gloss,38fc9e1e-1bb8-11e3-a402-0026b9326338
+pores,structure,0,treatise_gloss,38fc9edc-1bb8-11e3-a402-0026b9326338
+protuberance,structure,0,treatise_gloss,38fc9fa4-1bb8-11e3-a402-0026b9326338
+protuberances,structure,0,treatise_gloss,38fca06c-1bb8-11e3-a402-0026b9326338
+ramuli,structure,0,treatise_gloss,38fca134-1bb8-11e3-a402-0026b9326338
+ramulus,structure,0,treatise_gloss,38fca1fc-1bb8-11e3-a402-0026b9326338
+remains,structure,0,treatise_gloss,38fca2ba-1bb8-11e3-a402-0026b9326338
+ring,structure,0,treatise_gloss,38fca382-1bb8-11e3-a402-0026b9326338
+rods,structure,0,treatise_gloss,38fca44a-1bb8-11e3-a402-0026b9326338
+rosettes,structure,0,treatise_gloss,38fca512-1bb8-11e3-a402-0026b9326338
+shoul_ders,structure,0,treatise_gloss,38fca5da-1bb8-11e3-a402-0026b9326338
+side,structure,0,treatise_gloss,38fca6a2-1bb8-11e3-a402-0026b9326338
+sides,structure,0,treatise_gloss,38fca76a-1bb8-11e3-a402-0026b9326338
+space,structure,0,treatise_gloss,38fca828-1bb8-11e3-a402-0026b9326338
+species,structure,0,treatise_gloss,38fca8f0-1bb8-11e3-a402-0026b9326338
+spirals,structure,0,treatise_gloss,38fca9b8-1bb8-11e3-a402-0026b9326338
+subfamily,taxon class,0,treatise_gloss,38fcaa80-1bb8-11e3-a402-0026b9326338
+summit,structure,0,treatise_gloss,38fcab48-1bb8-11e3-a402-0026b9326338
+system,structure,0,treatise_gloss,38fcac10-1bb8-11e3-a402-0026b9326338
+taxon,structure,0,treatise_gloss,38fcacce-1bb8-11e3-a402-0026b9326338
+tier,structure,0,treatise_gloss,38fcad96-1bb8-11e3-a402-0026b9326338
+tiers,structure,0,treatise_gloss,38fcae5e-1bb8-11e3-a402-0026b9326338
+tube,structure,0,treatise_gloss,38fcaf26-1bb8-11e3-a402-0026b9326338
+tubes,structure,0,treatise_gloss,38fcafee-1bb8-11e3-a402-0026b9326338
+type,structure,0,treatise_gloss,38fcb0ac-1bb8-11e3-a402-0026b9326338
+unit,structure,0,treatise_gloss,38fcb174-1bb8-11e3-a402-0026b9326338
+units,structure,0,treatise_gloss,38fcb23c-1bb8-11e3-a402-0026b9326338
+whorls,structure,0,treatise_gloss,38fcb304-1bb8-11e3-a402-0026b9326338
+zone,structure,0,treatise_gloss,38fcb3cc-1bb8-11e3-a402-0026b9326338
+devonian,geological age,0,treatise_gloss,38fcb494-1bb8-11e3-a402-0026b9326338
+transparent,reflectance,0,treatise_gloss,38fcb624-1bb8-11e3-a402-0026b9326338
+coenocytic,structure,0,treatise_gloss,38fcb6ec-1bb8-11e3-a402-0026b9326338
+slight,prominence,0,treatise_gloss,38fcb7aa-1bb8-11e3-a402-0026b9326338
+broken,condition,0,treatise_gloss,38fcb872-1bb8-11e3-a402-0026b9326338
+thinned,width,0,treatise_gloss,38fcb93a-1bb8-11e3-a402-0026b9326338
+thickness,size,0,treatise_gloss,38fcba02-1bb8-11e3-a402-0026b9326338
+wheel,shape,0,treatise_gloss,38fcbaca-1bb8-11e3-a402-0026b9326338
+covering,structure,0,treatise_gloss,38fcbb92-1bb8-11e3-a402-0026b9326338
+marked,prominence,0,treatise_gloss,38fcbc50-1bb8-11e3-a402-0026b9326338
+periapical,position,0,treatise_gloss,38fcbd18-1bb8-11e3-a402-0026b9326338
+cortical,position,0,treatise_gloss,38fcbde0-1bb8-11e3-a402-0026b9326338
+intercellular,position,0,treatise_gloss,38fcbea8-1bb8-11e3-a402-0026b9326338
+cog,shape,0,treatise_gloss,38fcbf66-1bb8-11e3-a402-0026b9326338
+little,prominence,0,treatise_gloss,38fcc038-1bb8-11e3-a402-0026b9326338
+oogamous,reproduction,0,treatise_gloss,38fcc0f6-1bb8-11e3-a402-0026b9326338
+exterior,position,0,treatise_gloss,38fcc1be-1bb8-11e3-a402-0026b9326338
+found,occurrence,0,treatise_gloss,38fcc286-1bb8-11e3-a402-0026b9326338
+distinction,prominence,0,treatise_gloss,38fcc34e-1bb8-11e3-a402-0026b9326338
+represented,occurrence,0,treatise_gloss,38fcc416-1bb8-11e3-a402-0026b9326338
+level,structure,0,treatise_gloss,38fcc4de-1bb8-11e3-a402-0026b9326338
+turn,orientation,0,treatise_gloss,38fcc664-1bb8-11e3-a402-0026b9326338
+turning,orientation,0,treatise_gloss,38fcc72c-1bb8-11e3-a402-0026b9326338
+lost,occurrence,0,treatise_gloss,38fcc7f4-1bb8-11e3-a402-0026b9326338
+missing,occurrence,0,treatise_gloss,38fcc8bc-1bb8-11e3-a402-0026b9326338
+rearwards,position,0,treatise_gloss,38fcc97a-1bb8-11e3-a402-0026b9326338
+abnormal,prominence,0,treatise_gloss,38fcca4c-1bb8-11e3-a402-0026b9326338
+morphological,character,0,treatise_gloss,38fccb0a-1bb8-11e3-a402-0026b9326338
+fossilized,preservation,0,treatise_gloss,38fccc9a-1bb8-11e3-a402-0026b9326338
+loss,occurrence,0,treatise_gloss,38fccd62-1bb8-11e3-a402-0026b9326338
+cast,preservation,0,treatise_gloss,38fccef2-1bb8-11e3-a402-0026b9326338
+casts,preservation,0,treatise_gloss,38fccfba-1bb8-11e3-a402-0026b9326338
+calcite,construction,0,treatise_gloss,38fcd14a-1bb8-11e3-a402-0026b9326338
+grouped,fusion,0,treatise_gloss,38fcd208-1bb8-11e3-a402-0026b9326338
+noncalcified,construction,0,treatise_gloss,38fcd2d0-1bb8-11e3-a402-0026b9326338
+sporopollenin,construction,0,treatise_gloss,38fcd398-1bb8-11e3-a402-0026b9326338
+noncontiguous,position,0,treatise_gloss,38fcd460-1bb8-11e3-a402-0026b9326338
+subdivided,segmentation,0,treatise_gloss,38fcd708-1bb8-11e3-a402-0026b9326338
+fragmentary,architecture,0,treatise_gloss,38fcd7da-1bb8-11e3-a402-0026b9326338
+ornamented,surface sculpture,0,treatise_gloss,38fcd8ac-1bb8-11e3-a402-0026b9326338
+unornamented,surface sculpture,0,treatise_gloss,38fcd97e-1bb8-11e3-a402-0026b9326338
+smooth,surface sculpture,0,treatise_gloss,38fcda50-1bb8-11e3-a402-0026b9326338
+corticated,surface sculpture,0,treatise_gloss,38fcdb18-1bb8-11e3-a402-0026b9326338
+uncalcified,construction,0,treatise_gloss,38fcdbea-1bb8-11e3-a402-0026b9326338
+fixigenal,structure,0,treatise_gloss,38fcdcb2-1bb8-11e3-a402-0026b9326338
+restricted,occurrence,0,treatise_gloss,38fcdd7a-1bb8-11e3-a402-0026b9326338
+upturn,orientation,0,treatise_gloss,38fcde42-1bb8-11e3-a402-0026b9326338
+angle,position,0,treatise_gloss,38fcdf0a-1bb8-11e3-a402-0026b9326338
+pattern,character,0,treatise_gloss,38fcdfd2-1bb8-11e3-a402-0026b9326338
+notable,occurrence,0,treatise_gloss,38fce16c-1bb8-11e3-a402-0026b9326338
+projecting,orientation,0,treatise_gloss,38fce234-1bb8-11e3-a402-0026b9326338
+enlargement,prominence,0,treatise_gloss,38fce2fc-1bb8-11e3-a402-0026b9326338
+structural,architecture,0,treatise_gloss,38fce3c4-1bb8-11e3-a402-0026b9326338
+structure,character,0,treatise_gloss,38fce496-1bb8-11e3-a402-0026b9326338
+structures,character,0,treatise_gloss,38fce55e-1bb8-11e3-a402-0026b9326338
+tumorlike,shape,0,treatise_gloss,38fce6ee-1bb8-11e3-a402-0026b9326338
+psilocharoid,shape,0,treatise_gloss,38fce7b6-1bb8-11e3-a402-0026b9326338
+lamprothamnoid,structure,0,treatise_gloss,38fce888-1bb8-11e3-a402-0026b9326338
+nitellopsidoid,structure,0,treatise_gloss,38fce950-1bb8-11e3-a402-0026b9326338
+nodosoclavatoroid,structure,0,treatise_gloss,38fcea18-1bb8-11e3-a402-0026b9326338
+aclistochara,taxon name,0,treatise_gloss,38fceae0-1bb8-11e3-a402-0026b9326338
+calvata,taxon name,0,treatise_gloss,38fceba8-1bb8-11e3-a402-0026b9326338
+campylopoda,taxon name,0,treatise_gloss,38fcec7a-1bb8-11e3-a402-0026b9326338
+chara,taxon name,0,treatise_gloss,38fced42-1bb8-11e3-a402-0026b9326338
+characeae,taxon name,0,treatise_gloss,38fcee00-1bb8-11e3-a402-0026b9326338
+clavator,taxon name,0,treatise_gloss,38fceed2-1bb8-11e3-a402-0026b9326338
+moellerina,taxon name,0,treatise_gloss,38fcef9a-1bb8-11e3-a402-0026b9326338
+nitella,taxon name,0,treatise_gloss,38fcf062-1bb8-11e3-a402-0026b9326338
+nitelloideae,taxon name,0,treatise_gloss,38fcf12a-1bb8-11e3-a402-0026b9326338
+nodosoclavator,taxon name,0,treatise_gloss,38fcf1f2-1bb8-11e3-a402-0026b9326338
+palaeonitella,taxon name,0,treatise_gloss,38fcf2ba-1bb8-11e3-a402-0026b9326338
+porochara,taxon name,0,treatise_gloss,38fcf38c-1bb8-11e3-a402-0026b9326338
+porocharaceae,taxon name,0,treatise_gloss,38fcf454-1bb8-11e3-a402-0026b9326338
+sphaerochara,taxon name,0,treatise_gloss,38fcf51c-1bb8-11e3-a402-0026b9326338
+tolypella,taxon name,0,treatise_gloss,38fcf5e4-1bb8-11e3-a402-0026b9326338
+stellatocharoid,taxon name,0,treatise_gloss,38fcf6ac-1bb8-11e3-a402-0026b9326338
+monospecific,architecture,0,treatise_gloss,38fcf774-1bb8-11e3-a402-0026b9326338
+monotypic,architecture,0,treatise_gloss,38fcf846-1bb8-11e3-a402-0026b9326338
+charophyte,taxon name,0,treatise_gloss,38fcf90e-1bb8-11e3-a402-0026b9326338
+charophytes,taxon name,0,treatise_gloss,38fcf9d6-1bb8-11e3-a402-0026b9326338
+chlorophyte,taxon name,0,treatise_gloss,38fcfa9e-1bb8-11e3-a402-0026b9326338
+multilayered,architecture,0,treatise_gloss,38fcfb66-1bb8-11e3-a402-0026b9326338
+symmetry,architecture,0,treatise_gloss,38fcfd00-1bb8-11e3-a402-0026b9326338
+bisymmetrical,architecture,0,treatise_gloss,38fcfdc8-1bb8-11e3-a402-0026b9326338
